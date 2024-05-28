@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 10px;
+}
+
+:root{
+    :root {
+        --color-primario: rgb(34, 34, 34);      /* Negro Profundo */
+        --color-secundario: rgb(255, 255, 255); /* Blanco */
+        --color-acento: rgb(0, 123, 255);       /* Azul Brillante */
+        --color-fondo: rgb(240, 240, 240);      /* Gris Claro */
+        --color-alerta: rgb(255, 69, 0);        /* Rojo Naranja */
+        --color-exito: rgb(40, 167, 69);        /* Verde Éxito */
+        --color-info: rgb(23, 162, 184);        /* Azul Información */
+        --color-advertencia: rgb(255, 193, 7);  /* Amarillo Advertencia */
+        --color-luz: rgb(248, 249, 250);        /* Gris Muy Claro */
+        --color-oscuro: rgb(52, 58, 64);        /* Gris Oscuro */
+      }
+      
+}
+  
